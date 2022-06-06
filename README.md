@@ -1,2 +1,2 @@
 # HTML-5-Drag-N-Drop-API
-HTML 5 Drag 'N Drop API: https://web.dev/drag-and-drop/
+O mini projeto foi desenvolvido usando este artigo como base: https://web.dev/drag-and-drop/
